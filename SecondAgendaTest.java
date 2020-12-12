@@ -14,7 +14,7 @@ public class SecondAgendaTest {
 
     @BeforeClass
     public static void setUp() {
-        System.out.println("Starting second test cases.");
+        System.out.println("Starting second test case.");
         agenda = new Agenda();
     }
 
