@@ -1,5 +1,3 @@
-package jenkins;
-
 import java.util.List;
 
 class Contact {
